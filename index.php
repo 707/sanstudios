@@ -15,9 +15,9 @@
       <header>
         <div class="container-fluid">
           <div class="row-fluid">
-            <div class="col-md-12 text-center"><a href="index.php" class="brand"><img alt="SSK" src="images/logo.svg" class="default"><img alt="SSK" src="images/logo-white.svg" class="white"></a>
+            <div class="col-md-12 text-center"><a href="index.html" class="brand"><img alt="SSK" src="images/logo.svg" class="default"><img alt="SSK" src="images/logo-white.svg" class="white"></a>
               <ul class="main-nav">
-                <li><a href="index.php" title="Home" class="active">Home</a>
+                <li><a href="index.html" title="Home" class="active">Home</a>
                 </li>
                 <li><a href="pages/about.html" title="About">About</a>
                 </li>
